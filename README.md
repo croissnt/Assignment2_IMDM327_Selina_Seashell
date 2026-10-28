@@ -2,6 +2,10 @@
 
 An interactive Unity piece where your hands keep a tilted ring of glowing "ocean" alive. Seashells orbit the ring, rise and glow when you reach in, and sink back to rest when you let go.
 
+
+https://github.com/user-attachments/assets/1ff3ca12-fb57-4170-b4b8-28ec7f7d9bfe
+
+---
 ![Reference still from the film](images/film-reference.png)
 
 *Reference still from* Barbie in A Mermaid Tale 
